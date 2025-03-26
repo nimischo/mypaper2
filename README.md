@@ -1,5 +1,5 @@
 
-# mypaper2
+# MY PAPER 2
 
 ## Introduction
 My second attempt at a paper. 
